@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Skin Cancer Classification using CNN
 
 
 ## Table of Contents
